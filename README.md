@@ -1,4 +1,4 @@
-### Kamusta! My name is Steven 👋
+### Hello! 👋
 
 - 🔭 I’m currently working on React, TypeScript, and Front-end development
 - 🌱 I’m currently learning React native, DSA, and web frameworks including Bootstrap and Tailwind
