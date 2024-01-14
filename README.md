@@ -1,6 +1,6 @@
-### Hello! 👋
+### Ola! 👋 
 
-- 🔭 I’m currently working on React, TypeScript, and Front-end development
-- 🌱 I’m currently using React, DSA, and web frameworks including Bootstrap and Tailwind
+- 🔭 I’m currently working on Laravel, Angular, Vue, React, Express Development
+- 🌱 I use Laravel, Vue, and PHP as my primary stack. Secondary is React, Node, and Express
 <!--
 **mstevenreyes/mstevenreyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
